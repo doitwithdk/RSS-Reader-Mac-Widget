@@ -21,7 +21,7 @@
 		</array>
 	</dict>
 	<key>ContentViewType</key>
-	<integer>0</integer>
+	<integer>5</integer>
 	<key>DeploymentOptions</key>
 	<dict>
 		<key>Destination</key>
@@ -29,9 +29,9 @@
 		<key>Path</key>
 		<string>knowledge share widget</string>
 		<key>SavePath</key>
-		<string>/Users/deepak/Desktop</string>
+		<string>/Users/deepak</string>
 		<key>WidgetDeployName</key>
-		<string>Code is Clean :)</string>
+		<string>RSS-Reader-Mac-Widget</string>
 		<key>enableSimulation</key>
 		<true/>
 		<key>simulatedHost</key>
@@ -106,9 +106,7 @@
 		<key>Objects view last selections</key>
 		<array>
 			<array>
-				<integer>0</integer>
-				<integer>1</integer>
-				<integer>3</integer>
+				<integer>5</integer>
 			</array>
 		</array>
 		<key>Opened Steps</key>
@@ -118,7 +116,7 @@
 		</array>
 		<key>Visible StackLayout Views</key>
 		<array>
-			<string>back</string>
+			<string>front</string>
 		</array>
 	</dict>
 </dict>
